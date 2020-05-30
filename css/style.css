@@ -933,7 +933,7 @@ h2 {
   }
   .background {
     position: relative;
-    top: 20;
+    top: 20px;
     margin-top: 55px;
     padding: 0px;
     -webkit-transform: skewY(-5.5deg);
